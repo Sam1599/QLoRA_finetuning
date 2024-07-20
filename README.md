@@ -10,6 +10,8 @@ The model has been quantized and loaded in 4-bit format using QLoRA configuratio
 LoRA configurations have been applied to specific target modules within the model, facilitating its efficient utilization. 
 Subsequently, the model is fine-tuned on this dataset to assist in addressing data science-related queries.
 
+Run this notebook: https://colab.research.google.com/drive/1a_XJbnu21xxmWw4YvNWfpz6fRpcc3q8h?usp=sharing
+
 
 
 
